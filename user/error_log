@@ -1,0 +1,13 @@
+[27-Nov-2023 11:00:16 UTC] PHP Warning:  Undefined variable $id in /home/adebexuj/public_html/user/index.php on line 679
+[27-Nov-2023 11:00:16 UTC] PHP Warning:  Undefined variable $username in /home/adebexuj/public_html/user/index.php on line 679
+[27-Nov-2023 11:00:16 UTC] PHP Warning:  Undefined variable $firstname in /home/adebexuj/public_html/user/index.php on line 679
+[27-Nov-2023 11:00:16 UTC] PHP Warning:  Undefined variable $lastname in /home/adebexuj/public_html/user/index.php on line 679
+[27-Nov-2023 12:22:59 UTC] PHP Warning:  Undefined variable $id in /home/adebexuj/public_html/user/index.php on line 679
+[27-Nov-2023 12:22:59 UTC] PHP Warning:  Undefined variable $username in /home/adebexuj/public_html/user/index.php on line 679
+[27-Nov-2023 12:22:59 UTC] PHP Warning:  Undefined variable $firstname in /home/adebexuj/public_html/user/index.php on line 679
+[27-Nov-2023 12:22:59 UTC] PHP Warning:  Undefined variable $lastname in /home/adebexuj/public_html/user/index.php on line 679
+[27-Nov-2023 12:23:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/adebexuj/public_html/user/card.php on line 361
+[27-Nov-2023 12:23:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/adebexuj/public_html/user/card.php on line 361
+[27-Nov-2023 12:24:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/adebexuj/public_html/user/card.php on line 361
+[27-Nov-2023 12:24:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/adebexuj/public_html/user/card.php on line 361
+[27-Nov-2023 19:48:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/adebexuj/public_html/user/card.php on line 361
